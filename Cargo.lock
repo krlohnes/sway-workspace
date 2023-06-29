@@ -507,6 +507,7 @@ version = "0.2.1"
 dependencies = [
  "clap",
  "ksway",
+ "serde",
  "serde_json",
 ]
 
